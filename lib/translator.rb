@@ -7,7 +7,7 @@ emoticons = YAML.load_file('lib/emoticons.yml')
    'angel' =>
    { 
      :english => "O:)",
-     :japanese => "☜(⌒▽⌒)☞",
+     :japanese => "☜(⌒▽⌒)☞"
    }
  }
  
@@ -15,7 +15,7 @@ emoticons = YAML.load_file('lib/emoticons.yml')
    'angry' =>
    { 
      :english => ">:(",
-     :japanese => "ヽ(ｏ`皿′ｏ)ﾉ",
+     :japanese => "ヽ(ｏ`皿′ｏ)ﾉ"
    }
  }
    
@@ -23,7 +23,7 @@ emoticons = YAML.load_file('lib/emoticons.yml')
    'bored' =>
    { 
      :english => ":O",
-     :japanese => "(ΘεΘ;)",
+     :japanese => "(ΘεΘ;)"
    }
  }
 
@@ -31,7 +31,7 @@ emoticons = YAML.load_file('lib/emoticons.yml')
    'confused' =>
    { 
      :english => "%)",
-     :japanese => "(゜.゜)",
+     :japanese => "(゜.゜)"
    }
  }
 
@@ -39,7 +39,7 @@ emoticons = YAML.load_file('lib/emoticons.yml')
    'embarrassed' =>
    { 
      :english => ":$",
-     :japanese => "(#^.^#)",
+     :japanese => "(#^.^#)"
    }
  }
 
@@ -47,7 +47,7 @@ emoticons = YAML.load_file('lib/emoticons.yml')
    'fish' =>
    { 
      :english => "><>",
-     :japanese => ">゜))))彡",
+     :japanese => ">゜))))彡"
    }
  }
 
@@ -55,7 +55,7 @@ emoticons = YAML.load_file('lib/emoticons.yml')
    'glasses' =>
    { 
      :english => "8D",
-     :japanese => "(^0_0^)",
+     :japanese => "(^0_0^)"
    }
  }
 
@@ -63,7 +63,7 @@ emoticons = YAML.load_file('lib/emoticons.yml')
    'grinning' =>
    { 
      :english => "=D",
-     :japanese => "(￣ー￣)",
+     :japanese => "(￣ー￣)"
    }
  }
 
@@ -71,7 +71,7 @@ emoticons = YAML.load_file('lib/emoticons.yml')
    'happy' =>
    { 
      :english => ":)",
-     :japanese => "(＾ｖ＾)",
+     :japanese => "(＾ｖ＾)"
    }
  }
 
@@ -79,7 +79,7 @@ emoticons = YAML.load_file('lib/emoticons.yml')
    'kiss' =>
    { 
      :english => ":*",
-     :japanese => "(*^3^)/~☆",
+     :japanese => "(*^3^)/~☆"
    }
  }
 
@@ -87,7 +87,7 @@ emoticons = YAML.load_file('lib/emoticons.yml')
    'sad' =>
    { 
      :english => ":'(",
-     :japanese => "(Ｔ▽Ｔ)",
+     :japanese => "(Ｔ▽Ｔ)"
    }
  }
 
@@ -103,7 +103,7 @@ emoticons = YAML.load_file('lib/emoticons.yml')
    'wink' =>
    { 
      :english =>  ";)",
-     :japanese => "(^_-)",
+     :japanese => "(^_-)"
    }
  }
 end
