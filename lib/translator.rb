@@ -48,10 +48,8 @@ def load_library(data)
 
  
    :happy =>
-   { 
-     :english => ":)",
-     :japanese => "(＾ｖ＾)"
-   },
+             {:english => ":)"},
+             {:japanese => "(＾ｖ＾)"},
  
 
  
