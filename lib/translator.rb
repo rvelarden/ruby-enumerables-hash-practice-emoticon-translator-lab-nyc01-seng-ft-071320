@@ -66,8 +66,8 @@ def load_library(data)
 
  
    :surprised =>
-   {:english => ":o"},
-     {:japanese => "o_O"},
+             {:english => ":o"},
+             {:japanese => "o_O"},
  
 
  
