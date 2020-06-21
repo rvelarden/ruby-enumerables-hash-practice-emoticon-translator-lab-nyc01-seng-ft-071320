@@ -95,7 +95,7 @@ emoticons = YAML.load_file('lib/emoticons.yml')
    'surprised' =>
    { 
      :english => ":o",
-     :japanese => "o_O",
+     :japanese => "o_O"
    }
  }
 
