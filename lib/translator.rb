@@ -60,9 +60,8 @@ def load_library(data)
 
  
    :sad =>
-   { 
-     :english => ":'(",
-     :japanese => "(Ｔ▽Ｔ)"
+             {:english => ":'(",
+             {:japanese => "(Ｔ▽Ｔ)"
    },
  
 
