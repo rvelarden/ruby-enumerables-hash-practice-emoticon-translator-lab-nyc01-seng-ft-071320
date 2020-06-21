@@ -54,10 +54,8 @@ def load_library(data)
 
  
    :kiss =>
-   { 
-     :english => ":*",
-     :japanese => "(*^3^)/~☆"
-   },
+             {:english => ":*"},
+             {:japanese => "(*^3^)/~☆"},
  
 
  
