@@ -42,9 +42,8 @@ def load_library(data)
  
  
    :grinning =>
-             {:english => "=D",
-     :japanese => "(￣ー￣)"
-   },
+             {:english => "=D"},
+             {:japanese => "(￣ー￣)"},
  
 
  
