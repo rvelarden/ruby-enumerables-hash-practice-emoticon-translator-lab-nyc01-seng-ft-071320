@@ -31,16 +31,13 @@ def load_library(data)
 
  
    :fish =>
-   { 
-     :english => "><>",
-     :japanese => ">゜))))彡"
-   },
+             {:english => "><>"},
+             {:japanese => ">゜))))彡"},
  
 
  
    :glasses =>
-   { 
-     :english => "8D",
+             {:english => "8D",
      :japanese => "(^0_0^)"
    },
  
