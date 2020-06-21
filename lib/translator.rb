@@ -72,8 +72,7 @@ def load_library(data)
 
  
    :wink =>
-   { 
-     :english =>  ";)",
+             {:english =>  ";)",
      :japanese => "(^_-)"
    }
  }
