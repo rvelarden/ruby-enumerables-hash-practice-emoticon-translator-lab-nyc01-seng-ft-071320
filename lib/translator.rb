@@ -6,13 +6,21 @@ emoticons = YAML.load_file('lib/emoticons.yml')
  
 end
 
-def get_japanese_emoticon(file_path, eng_emo)
+def get_japanese_emoticon(yaml_file, eng_emoti)
   # code goes here
-  library = load_library('./lib/emoticons.yml')
-  library.each do |meaning, idioms|
-      return idioms[:japanese] if idioms[:english] == eng_emo
-         
-  end 
+  translation = ""
+  new_hash = load_library(yaml_file)
+  new_hash.each do |name, languages|
+      if languages[:english] == eng_emoti
+      translation = languages[:japanese]
+    end
+  end
+    if translation == ""
+      return "Sorry, that emoticon was not found"
+    else 
+      return translation
+    end
+end
 
   "Sorry, that emoticon was not found"
 end
