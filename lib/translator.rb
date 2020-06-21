@@ -24,6 +24,7 @@ end
 
   "Sorry, that emoticon was not found"
 end
+end 
 
 def get_english_meaning(file_path, jap_emo)
   # code goes here
