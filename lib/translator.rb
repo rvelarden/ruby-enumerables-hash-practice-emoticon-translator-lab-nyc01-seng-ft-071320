@@ -37,9 +37,8 @@ def load_library(data)
 
  
    :glasses =>
-             {:english => "8D",
-     :japanese => "(^0_0^)"
-   },
+             {:english => "8D"},
+             {:japanese => "(^0_0^)"},
  
  {
    :grinning =>
